@@ -1,0 +1,111 @@
+"Main Language (detailed) (QS204EW)"
+,,,,"Plymouth","South West","England"
+,,,,"Unitary Authority","Region","Country"
+"All Usual Residents Aged 3 and Over","Count","Persons","Mar11",247025,5110750,51005610
+"English (English or Welsh if in Wales)","Count","Persons","Mar11",238255,4934125,46936780
+"Welsh/Cymraeg (In England Only)","Count","Persons","Mar11",39,1047,8248
+"Other UK Language","Count","Persons","Mar11",27,765,4637
+"Other UK Language; Gaelic (Irish)","Count","Persons","Mar11",4,67,1512
+"Other UK Language; Gaelic (Scottish)","Count","Persons","Mar11",0,3,57
+"Other UK Language; Manx Gaelic","Count","Persons","Mar11",0,5,32
+"Other UK Language; Gaelic (Not Otherwise Specified)","Count","Persons","Mar11",0,19,503
+"Other UK Language; Cornish","Count","Persons","Mar11",5,489,554
+"Other UK Language; Scots","Count","Persons","Mar11",16,125,1542
+"Other UK Language; Gypsy/Traveller Languages","Count","Persons","Mar11",2,57,437
+"French","Count","Persons","Mar11",323,6393,145026
+"Portuguese","Count","Persons","Mar11",353,7725,131002
+"Spanish","Count","Persons","Mar11",241,5974,118554
+"Other European Language (EU)","Count","Persons","Mar11",3973,77042,1155972
+"Other European Language (EU); Italian","Count","Persons","Mar11",118,4365,90547
+"Other European Language (EU); German","Count","Persons","Mar11",262,5905,75190
+"Other European Language (EU); Polish","Count","Persons","Mar11",2185,42310,529173
+"Other European Language (EU); Slovak","Count","Persons","Mar11",103,3417,49066
+"Other European Language (EU); Czech","Count","Persons","Mar11",172,1945,28284
+"Other European Language (EU); Romanian","Count","Persons","Mar11",306,2789,66496
+"Other European Language (EU); Lithuanian","Count","Persons","Mar11",171,3353,84327
+"Other European Language (EU); Latvian","Count","Persons","Mar11",110,1620,31159
+"Other European Language (EU); Hungarian","Count","Persons","Mar11",79,3301,43241
+"Other European Language (EU); Bulgarian","Count","Persons","Mar11",54,1653,37819
+"Other European Language (EU); Greek","Count","Persons","Mar11",221,1750,49282
+"Other European Language (EU); Dutch","Count","Persons","Mar11",69,1839,25912
+"Other European Language (EU); Swedish","Count","Persons","Mar11",47,1037,18871
+"Other European Language (EU); Danish","Count","Persons","Mar11",15,665,9827
+"Other European Language (EU); Finnish","Count","Persons","Mar11",12,476,6457
+"Other European Language (EU); Estonian","Count","Persons","Mar11",3,210,3316
+"Other European Language (EU); Slovenian","Count","Persons","Mar11",12,68,1196
+"Other European Language (EU); Maltese","Count","Persons","Mar11",29,182,2931
+"Other European Language (EU); Any Other European Language (EU)","Count","Persons","Mar11",5,157,2878
+"Other European Language (Non EU)","Count","Persons","Mar11",136,2321,64985
+"Other European Language (Non EU); Albanian","Count","Persons","Mar11",40,535,32331
+"Other European Language (Non EU); Serbian, Croatian or Bosnian","Count","Persons","Mar11",24,403,14017
+"Other European Language (Non EU); Ukrainian","Count","Persons","Mar11",17,331,6503
+"Other European Language (Non EU); Any Other Eastern European Language (Non EU)","Count","Persons","Mar11",3,94,1716
+"Other European Language (Non EU); Northern European Language (Non EU)","Count","Persons","Mar11",52,958,10418
+"Other European Language (Non-National)","Count","Persons","Mar11",1,27,4600
+"Other European Language (Non-National); Romani Language (Any)","Count","Persons","Mar11",1,22,614
+"Other European Language (Non-National); Yiddish","Count","Persons","Mar11",0,5,3986
+"Russian","Count","Persons","Mar11",241,3601,66271
+"Turkish","Count","Persons","Mar11",96,2894,98083
+"Arabic","Count","Persons","Mar11",340,4250,152490
+"West/Central Asian Language","Count","Persons","Mar11",543,4314,181424
+"West/Central Asian Language; Hebrew","Count","Persons","Mar11",2,157,6147
+"West/Central Asian Language; Kurdish","Count","Persons","Mar11",368,1453,47114
+"West/Central Asian Language; Persian/Farsi","Count","Persons","Mar11",143,1851,75179
+"West/Central Asian Language; Pashto","Count","Persons","Mar11",15,412,39607
+"West/Central Asian Language; West/Central Asian Language (All Other)","Count","Persons","Mar11",15,441,13377
+"South Asian Language","Count","Persons","Mar11",713,23522,1281168
+"South Asian Language; Urdu","Count","Persons","Mar11",83,2791,266330
+"South Asian Language; Hindi","Count","Persons","Mar11",34,1364,44826
+"South Asian Language; Panjabi","Count","Persons","Mar11",9,2418,271580
+"South Asian Language; Pakistani Pahari (With Mirpuri and Potwari)","Count","Persons","Mar11",0,25,21835
+"South Asian Language; Bengali (With Sylheti and Chatgaya)","Count","Persons","Mar11",175,4306,216196
+"South Asian Language; Gujarati","Count","Persons","Mar11",21,2037,212217
+"South Asian Language; Marathi","Count","Persons","Mar11",8,334,6279
+"South Asian Language; Telugu","Count","Persons","Mar11",39,560,14302
+"South Asian Language; Tamil","Count","Persons","Mar11",60,1531,99773
+"South Asian Language; Malayalam","Count","Persons","Mar11",121,3080,34714
+"South Asian Language; Sinhala","Count","Persons","Mar11",18,352,14507
+"South Asian Language; Nepalese","Count","Persons","Mar11",102,3116,51748
+"South Asian Language; South Asian Language (All Other)","Count","Persons","Mar11",43,1608,26861
+"East Asian Language","Count","Persons","Mar11",1285,24635,374013
+"East Asian Language; Mandarin Chinese","Count","Persons","Mar11",105,1333,21308
+"East Asian Language; Cantonese Chinese","Count","Persons","Mar11",154,2784,43022
+"East Asian Language; All Other Chinese","Count","Persons","Mar11",567,9106,135048
+"East Asian Language; Japanese","Count","Persons","Mar11",32,1275,27305
+"East Asian Language; Korean","Count","Persons","Mar11",5,800,14943
+"East Asian Language; Vietnamese","Count","Persons","Mar11",21,537,14917
+"East Asian Language; Thai","Count","Persons","Mar11",116,2477,26425
+"East Asian Language; Malay","Count","Persons","Mar11",97,810,11845
+"East Asian Language; Tagalog/Filipino","Count","Persons","Mar11",164,4953,67593
+"East Asian Language; East Asian Language (All Other)","Count","Persons","Mar11",24,560,11607
+"Oceanic/Australian Language (Any)","Count","Persons","Mar11",46,472,1729
+"North/South American language (Any)","Count","Persons","Mar11",0,10,1022
+"Caribbean Creole","Count","Persons","Mar11",0,21,506
+"Caribbean Creole; Caribbean Creole (English-Based)","Count","Persons","Mar11",0,19,405
+"Caribbean Creole; Caribbean Creole (All Other)","Count","Persons","Mar11",0,2,101
+"African Language","Count","Persons","Mar11",273,9098,240572
+"African Language; Amharic","Count","Persons","Mar11",11,88,8539
+"African Language; Tigrinya","Count","Persons","Mar11",12,106,12205
+"African Language; Somali","Count","Persons","Mar11",6,5131,84387
+"African Language; Krio","Count","Persons","Mar11",0,32,1187
+"African Language; Akan","Count","Persons","Mar11",4,187,18364
+"African Language; Yoruba","Count","Persons","Mar11",11,219,14806
+"African Language; Igbo","Count","Persons","Mar11",24,123,7844
+"African Language; Swahili/Kiswahili","Count","Persons","Mar11",16,360,14890
+"African Language; Luganda","Count","Persons","Mar11",29,85,3425
+"African Language; Lingala","Count","Persons","Mar11",4,45,4872
+"African Language; Shona","Count","Persons","Mar11",37,746,21134
+"African Language; Afrikaans","Count","Persons","Mar11",32,683,11054
+"African Language; Any Other Nigerian Language","Count","Persons","Mar11",14,135,6550
+"African Language; West African Language (All Other)","Count","Persons","Mar11",13,328,9255
+"African Language; African Language (All Other)","Count","Persons","Mar11",60,830,22060
+"Other Languages","Count","Persons","Mar11",33,686,17675
+"Other Languages; All Other Languages","Count","Persons","Mar11",33,686,17675
+"Sign Language","Count","Persons","Mar11",107,1828,20853
+"Sign Language; British Sign Language","Count","Persons","Mar11",86,1260,14736
+"Sign Language; Sign Language (All Other)","Count","Persons","Mar11",10,212,2631
+"Sign Language; Any Sign Communication System","Count","Persons","Mar11",11,356,3486
+"Main Language (detailed), 2011 (QS204EW), Mar11","LastUpdated","30 January 2013"
+"Main Language (detailed), 2011 (QS204EW), Mar11","Source","Office for National Statistics"
+"Main Language (detailed) (QS204EW)","National Statistics"
+"This material is Crown Copyright. You may re-use this information (not including logos) free of charge in any format or medium, under the terms of the Open Government Licence. To view this licence, visit www.nationalarchives.gov.uk/doc/open-government-licence Information Policy Team, The National Archives, Kew, London TW9 4DU, or email:psi@nationalarchives.gsi.gov.uk. When reproducing this material, the source should be acknowledged."
