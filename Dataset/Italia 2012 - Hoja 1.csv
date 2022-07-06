@@ -1,19 +1,12 @@
-,,,,
-Data type,,foreign citizens aged 6 years and overforeign citizens aged 6 years and over by sex (percent),,
-Territory,,Italy,,
-Select time,,2012,,
-Gender,,males,females,total
-Language,,,,
-arabic (16 idioms),,346 148,452 216,798 364
-albanian,,272 548,204 173,476 721
-spanish,,205 877,174 484,380 361
-chinese (12 idioms),,97 995,157 464,255 459
-russian,,80 652,78 944,159 597
-french,,26 242,100 607,126 849
-ukrainian,,60 139,56 148,116 287
-"serbian, croatian, bosnian, montenegrin",,19 521,100 363,119 883
-polish,,52 426,40 863,93 289
-italian,,21 559,65 724,87 283
-other,,83 085,79 063,162 148
-all items,,406 721,441 738,848 459
-Data type,,1 678 839,1 960 388,3 639 227
+Territory,Language,2012
+Italy,arabic (16 idioms),798 364
+Italy,albanian,476 721
+Italy,spanish,380 361
+Italy,chinese (12 idioms),255 459
+Italy,russian,159 597
+Italy,french,126 849
+Italy,ukrainian,116 287
+Italy,"serbian, croatian, bosnian, montenegrin",119 883
+Italy,polish,93 289
+Italy,italian,87 283
+Italy,other,162 148
